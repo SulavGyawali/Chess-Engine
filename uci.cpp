@@ -1,6 +1,7 @@
 #include <iostream>
 #include "def.h"
 #include <string>
+#include <cstring>
 
 #define INPUTBUFFER 400 * 6
 #define AUTHOR "Sujan"

@@ -2,6 +2,7 @@
 #include"def.h"
 #include<sys/time.h>
 #include<unistd.h>
+#include<cstring>
 
 int GetTimeMs(){
     struct timeval t;
